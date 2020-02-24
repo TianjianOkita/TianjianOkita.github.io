@@ -1,0 +1,47 @@
+body {
+    background-color:rgb(177, 0, 0) ;
+    
+}
+
+h3 {
+    text-align: center;
+background-color: rgba(255,255,255,.5);
+border: solid black;
+padding: 40px;
+margin: 3vh;
+
+
+}
+h4 {
+    text-align: center;
+    background-color: whitesmoke;
+    border: solid black;
+    padding: 40px;
+    margin: 3vh;
+    
+    
+    }
+h5{
+position: absolute;
+text-align: center;
+top: 870px;
+width:300px;
+padding: 200px;
+margin: 50vh;
+color:white;
+background-color: rgba(92, 91, 91, 0.192);
+}
+
+main{text-align: center;
+background-color: brown;
+border: solid black;
+padding: 2vw;
+margin: 3vh;
+
+}
+
+div {
+    text-align: center;
+    background-color :rgb(75, 7, 7) ;
+
+}
