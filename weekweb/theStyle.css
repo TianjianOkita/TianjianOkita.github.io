@@ -1,0 +1,120 @@
+body {
+    background-color: yellow;
+}
+
+section123 {
+    position: absolute;
+    text-align: center;
+    left:283px;
+    top:450px;
+    width:40px;
+
+	color: white;
+}
+
+section125 {
+    position: absolute;
+    text-align: center;
+    left:420px;
+    top:450px;
+    width:40px;
+	
+	color: white;
+}
+section126 {
+    position: absolute;
+    text-align: center;
+    left:80px;
+    top:490px;
+    width:40px;
+	
+	color: white;
+}
+
+section128 {
+    position: absolute;
+    text-align: center;
+    left:180px;
+    top:490px;
+    width:60px;
+	
+	color: white;
+}
+
+section131 {
+    position: absolute;
+    text-align: center;
+    left:350px;
+    top:490px;
+    width:60px;
+	
+	color: white;
+}
+
+
+section203 {
+    position: absolute;
+    text-align: center;
+    left:780px;
+    top:360px;
+    width:40px;
+	
+    color: white;
+}
+
+section207 {
+    position: absolute;
+    text-align: center;
+    left:1000px;
+    top:360px;
+    width:40px;
+	
+    color: white;}
+    
+ section208 {
+        position: absolute;
+        text-align: center;
+        left:1075px;
+        top:360px;
+        width:40px;
+        
+        color: white;}
+
+        section211 {
+            position: absolute;
+            text-align: center;
+            left:835px;
+            top:415px;
+            width:40px;
+            
+            color: white;
+        }       
+
+        section215 {
+            position: absolute;
+            text-align: center;
+            left:1075px;
+            top:415px;
+            width:40px;
+            
+            color: white;}
+
+            section216 {
+                position: absolute;
+                text-align: center;
+                left:725px;
+                top:455px;
+                width:40px;
+               
+                color: white;
+            }       
+
+            section228 {
+                position: absolute;
+                text-align: center;
+                left:1000px;
+                top:494px;
+                width:40px;
+            
+                color: white;
+            }       
